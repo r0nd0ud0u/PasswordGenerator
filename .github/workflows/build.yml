@@ -1,4 +1,4 @@
-name: Qt C++ Build
+name: C++ Build
 
 on:
   push:
