@@ -15,6 +15,6 @@ PasswordResult::~PasswordResult()
 
 void PasswordResult::SetNewGenPassword(QString str)
 {
-    ui->textBrowser->setText(str);
+    ui->lineEdit->setText(str);
 
 }
